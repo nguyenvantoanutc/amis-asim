@@ -160,6 +160,7 @@ export default class QRCode extends React.Component<QRCodeProps, any> {
             imageSettings={this.getImageSettings()}
           />
         )}
+        toanutc
       </div>
     );
   }
