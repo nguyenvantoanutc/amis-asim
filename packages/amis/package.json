@@ -1,5 +1,5 @@
 {
-  "name": "amis",
+  "name": "amis-asim",
   "version": "3.2.2",
   "description": "一种MIS页面生成工具",
   "main": "lib/index.js",
@@ -242,5 +242,5 @@
     "react": ">=16.8.6",
     "react-dom": ">=16.8.6"
   },
-  "gitHead": "6d66fe6cde21006f7f8c1e65cdfb8b1045b2ffd8"
+  "gitHead": "cf3c7794690a84fd009228a68619ee2cd01be64b"
 }
