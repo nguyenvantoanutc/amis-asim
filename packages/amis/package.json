@@ -36,8 +36,8 @@
     }
   ],
   "dependencies": {
-    "amis-core": "^3.2.2",
-    "amis-ui": "^3.2.2",
+    "amis-core-asim": "^3.2.2",
+    "amis-ui-asim": "^3.2.2",
     "attr-accept": "2.2.2",
     "blueimp-canvastoblob": "2.1.0",
     "classnames": "2.3.1",
